@@ -1,5 +1,5 @@
 def main():
-    print("Project started")
+    print("Project started from updated version")
 
 
 if __name__ == "__main__":
